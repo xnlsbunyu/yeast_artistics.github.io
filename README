@@ -1,0 +1,5 @@
+This notebook is for fun.
+I am trying to directly draw schematic, which I need for scientific illustration very often, using matplotlib
+So far:
+    1. 96-well plate with each well has different color.
+        #This is usually needed for a barcoded yeast plates.
